@@ -5,14 +5,6 @@ use Romullus;
 --banco de dados pode da erro no ID de algumas tabelas
 --lembrar de conferir o ID quando fazer os insert
 
---         ─────▄▌ ▐▀▀▀▀▀▀▀▀▀▀▀▀▀▌       ▒▒▄▀▀▀▀▀▄▒▒▒▒▒▄▄▄▄▄▒▒▒
---         ───▄▄██▌█░░░░ Mik  ░░░▌.      ▒▐░▄░░░▄░▌▒▒▄█▄█▄█▄█▄▒
---         ▄▄▄▌▐██▌█░░░░ Lindo░░░▌.      ▒▐░▀▀░▀▀░▌▒▒▒▒▒░░░▒▒▒▒
---         ███████▌█▄▄▄▄▄▄▄▄▄▄▄▄▄▌       ▒▒▀▄░═░▄▀▒▒▒▒▒▒░░░▒▒▒▒
---         ▀❍▀▀▀▀▀▀▀❍❍▀▀▀▀▀▀❍❍▀      ▒▒▐░▀▄▀░▌▒▒▒▒▒▒░░░▒▒▒▒ 
-
-
-
 
 --inserido 
 create table uf (
