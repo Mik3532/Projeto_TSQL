@@ -338,7 +338,7 @@ begin
 end;
 go
 
---inseirndo os dados do logins
+--inserindo os dados do logins
 exec inserirlog  @email = 'DogCaramelo@gmail.com' , @senha = ViraLara321 , @fkusuario = 5;
 
 
@@ -348,7 +348,7 @@ if object_id ('alterasenha','P') is not null
     drop procedure alterasenha;
  go
 
- --cirando procedure para altera senha 
+ --criando procedure para altera senha 
 create procedure alterasenha
 	@id int,
 	@novasenha varchar (32)
